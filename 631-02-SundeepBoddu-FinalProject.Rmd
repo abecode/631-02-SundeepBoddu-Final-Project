@@ -39,7 +39,7 @@ https://www.atlasevhub.com/materials/state-ev-registration-data/#data
 Here is a graph I got from the website that shows EV sales by Model.
 
 ```{r}
-knitr::include_graphics('D:\\Study\\Foundation of Data Analysis\\Final Project\\Graph1.png')
+knitr::include_graphics('Graph1.png')
 ```
 
 I have imported the data as an excel file by using the readxl library and then saved it to a variable called EVRegData.
